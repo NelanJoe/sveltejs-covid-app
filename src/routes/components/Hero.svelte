@@ -1,5 +1,5 @@
 <script>
-	let src = '/img/brand.png';
+	let src = 'img/brand.png';
 	let title = 'vaccine';
 </script>
 
